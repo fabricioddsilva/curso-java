@@ -6,6 +6,8 @@ São apenas exercícios, então metodos simples de verificação que teriam numa
 - Java 17 LTS
 - IntelliJ Community Edition
 
-## Primeira Seção: Programação Orientada a Objetos (POO)
-As atividades nessa seção buscam fixar o conteúdo de POO, utilizando **Classes**, **Métodos**, e **Atributos**.   
-Também os conceitos sobre **Instâncias** e metódos **Estáticos**. 
+## Seções
+- POO (Programação Orientada a Objetos)
+- Vetores
+- Listas
+- Composição e Enum
