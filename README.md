@@ -1,12 +1,13 @@
 # Exercícios do Curso de Java
 Todas as atividades que eu fiz durante o curso de Java completo da Udemy.  
-São apenas exercícios, então metodos simples de verificação que teriam numa aplicação convencional não vai ter nessas aplicações.
+São apenas exercícios, então alguns métodos mais complexos que poderiam ser usados nas atividades não possuem a necessidade de serem usados.  
+A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso. A única exceção é o assunto de POO que é divido em várias partes
 
 ## Ferramentas
 - Java 17 LTS
 - IntelliJ Community Edition
 
-## Seções
+## Assuntos
 - POO (Programação Orientada a Objetos)
 - Vetores
 - Listas
