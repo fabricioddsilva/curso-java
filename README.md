@@ -11,7 +11,13 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 
 ## Assuntos
 - POO (Programação Orientada a Objetos)
+  - Encapsulamento
+  - Herança
+  - Polimorfismo
 - Vetores e Arrays
 - Listas
 - Datas
+  - LocalDate
+  - LocalDateTime
+  - Instant
 - Composição e Enum
