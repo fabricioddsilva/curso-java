@@ -14,6 +14,7 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
   - Encapsulamento
   - Herança
   - Polimorfismo
+  - Inferace
 - Vetores e Arrays
 - Listas
 - Datas
@@ -21,3 +22,6 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
   - LocalDateTime
   - Instant
 - Composição e Enum
+- Tratamento de Exceções
+- Manipulação de Arquivos
+
