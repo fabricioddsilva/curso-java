@@ -24,4 +24,6 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Composição e Enum
 - Tratamento de Exceções
 - Manipulação de Arquivos
+- Generics, Set e Map
+- Programação Funcional e Lambda
 
