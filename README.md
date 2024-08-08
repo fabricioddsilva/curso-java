@@ -9,6 +9,10 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Java 17 LTS
 - IntelliJ Community Edition
 
+## Projetos feitos no curso:
+- Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
+- JDBC: https://github.com/fabricioddsilva/demo-dao-jdbc
+
 ## Assuntos
 - POO (Programação Orientada a Objetos)
   - Encapsulamento
@@ -26,4 +30,5 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Manipulação de Arquivos
 - Generics, Set e Map
 - Programação Funcional e Lambda
+- JDBC (Java DataBase Connectivity) 
 
