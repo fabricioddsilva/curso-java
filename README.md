@@ -31,4 +31,5 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Generics, Set e Map
 - Programação Funcional e Lambda
 - JDBC (Java DataBase Connectivity) 
+- JPA/Hibernate
 
