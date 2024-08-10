@@ -12,6 +12,7 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 ## Projetos feitos no curso:
 - Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
 - JDBC: https://github.com/fabricioddsilva/demo-dao-jdbc
+- Spring JPA: https://github.com/fabricioddsilva/projeto-spring-jpa
 
 ## Assuntos
 - POO (Programação Orientada a Objetos)
@@ -32,4 +33,5 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Programação Funcional e Lambda
 - JDBC (Java DataBase Connectivity) 
 - JPA/Hibernate
+- Spring (Framework)
 
