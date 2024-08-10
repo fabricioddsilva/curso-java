@@ -8,6 +8,7 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 ## Ferramentas
 - Java 17 LTS
 - IntelliJ Community Edition
+- Spring 3
 
 ## Projetos feitos no curso:
 - Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
