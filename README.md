@@ -1,14 +1,18 @@
 # Exercícios do Curso de Java
-Todas as atividades que eu fiz durante o curso de Java completo da Udemy. _em andamento_    
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/fabricioddsilva/curso-java/blob/main/LICENSE)
+
+Todas as atividades que eu fiz durante o curso de Java COMPLETO Programação Orientada a Objetos + Projetos, na Udemy [Udemy](https://www.udemy.com/ "Site da Udemy")  (_em andamento_)    
 
 São apenas exercícios, então alguns métodos mais complexos que poderiam ser usados nas atividades não possuem a necessidade de serem usados.  
 
 A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso. A única exceção é o assunto de POO que é dividido em várias partes
 
-## Ferramentas
+## Tecnologias Usadas
 - Java 17 LTS
-- IntelliJ Community Edition
 - Spring 3
+- JPA/Hibernate
+- Maven
 
 ## Projetos feitos no curso:
 - Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
@@ -35,4 +39,10 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - JDBC (Java DataBase Connectivity) 
 - JPA/Hibernate
 - Spring (Framework)
+
+# Autor
+
+Fabrício Dias da Silva.  
+
+https://www.linkedin.com/in/fabr%C3%ADcio-dias-860252247/
 
