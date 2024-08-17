@@ -18,6 +18,7 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
 - JDBC: https://github.com/fabricioddsilva/demo-dao-jdbc
 - Spring JPA: https://github.com/fabricioddsilva/projeto-spring-jpa
+- Workshop Spring MongoDB: https://github.com/fabricioddsilva/workshop-spring-mongodb
 
 ## Assuntos
 - POO (Programação Orientada a Objetos)
