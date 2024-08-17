@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/fabricioddsilva/curso-java/blob/main/LICENSE)
 
-Todas as atividades que eu fiz durante o curso de Java COMPLETO Programação Orientada a Objetos + Projetos, na Udemy [Udemy](https://www.udemy.com/ "Site da Udemy")  (_em andamento_)    
+Todas as atividades que eu fiz durante o curso de Java COMPLETO Programação Orientada a Objetos + Projetos, na [Udemy](https://www.udemy.com/ "Site da Udemy")
 
 São apenas exercícios, então alguns métodos mais complexos que poderiam ser usados nas atividades não possuem a necessidade de serem usados.  
 
