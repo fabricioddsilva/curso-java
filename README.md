@@ -13,6 +13,8 @@ A lista de **Assuntos** mostra em ordem cronologica os assuntos vistos no curso.
 - Spring 3
 - JPA/Hibernate
 - Maven
+- MongoDB
+- MySQL
 
 ## Projetos feitos no curso:
 - Xadrez: https://github.com/fabricioddsilva/jogo-xadrez
